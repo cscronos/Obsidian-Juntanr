@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "ab96603af8afa2c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a517a4708708cd",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e91036dc8435215e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7200acd57067ac91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a096f11e7b86d9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d92953dac367322",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52ae22c1b17f6710",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70337c140b72918c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dffdbd6b813a1a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a50386f07e202a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bd70e42c4172c89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60dc13c6fcfb8b2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33375f40085616a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40a517a4708708cd",
+  "lastOpenFiles": [
+    "Ensayo.md",
+    "InstalacionArch.md",
+    "Intalacion de arch 2.md"
+  ]
+}
